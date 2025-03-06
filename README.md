@@ -1,5 +1,5 @@
 <div>
-  <img src="https://bel.cultreg.ru/uploads/6bb680bf2b22812693beff2b1f5924b3.jpg" alt="background" align="center" style="max-height:130px;width:100%;object-fit:cover;" />
+  <img src="https://github.com/efites/efites/blob/main/images/micro_short.jpg" alt="background" align="center" style="max-height:130px;width:100%;object-fit:cover;" />
 </div>
 
 <h1 align="left">:wave: Hello there! I'm Efites</h1>
